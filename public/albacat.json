@@ -1,0 +1,67 @@
+{
+  "LIVETV": [
+    {
+      "cid": "1",
+      "category_name": "KOMBETARE",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/alb.png",
+      "has_ads": "jo",
+      "has_ads_koha": "10000"
+    },
+    {
+      "cid": "2",
+      "category_name": "NEWS",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/news.png",
+      "has_ads": "jo",
+      "has_ads_koha": "20000"
+    },
+    {
+      "cid": "3",
+      "category_name": "SPORTS",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/sports.png",
+      "has_ads": "po",
+      "has_ads_koha": "40000"
+    },
+    {
+      "cid": "4",
+      "category_name": "WILD SCIENS",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/doc.png",
+      "has_ads": "jo",
+      "has_ads_koha": "20000"
+    },
+    {
+      "cid": "5",
+      "category_name": "FILM",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/film.png",
+      "has_ads": "jo",
+      "has_ads_koha": "20000"
+    },
+    {
+      "cid": "7",
+      "category_name": "KIDS",
+      "category_image": "https://cdn4.vectorstock.com/i/thumb-large/10/08/cute-children-waving-hand-vector-5011008.jpg",
+      "has_ads": "jo",
+      "has_ads_koha": "20000"
+    },
+    {
+      "cid": "12",
+      "category_name": "BEIN SPORT",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/bein.png",
+      "has_ads": "po",
+      "has_ads_koha": "30000"
+    },
+    {
+      "cid": "13",
+      "category_name": "ITALI",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/ita.png",
+      "has_ads": "po",
+      "has_ads_koha": "20000"
+    },
+    {
+      "cid": "14",
+      "category_name": "GERMANY",
+      "category_image": "http://albaiptv.xyz/albatviptv/api/images/de.png",
+      "has_ads": "po",
+      "has_ads_koha": "20000"
+    }
+  ]
+}

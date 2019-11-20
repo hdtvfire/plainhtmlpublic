@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Tamil",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/tamil.jpg"
+  },
+  {
+    "name": "Hindi",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/hindi.jpg"
+  },
+  {
+    "name": "Telugu",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/telugu.jpg"
+  },
+  {
+    "name": "Malayalam",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/malayalam.jpg"
+  },
+  {
+    "name": "Kannada",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/kannada.jpg"
+  },
+  {
+    "name": "Bengali",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/bengali.jpg"
+  },
+  {
+    "name": "Marathi",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/marathi.jpg"
+  },
+  {
+    "name": "Punjabi",
+    "image": "https://s112.einthusan.com/etv/s3/etc/img/punjabi.jpg"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "category": [
+    {
+      "category_id": 0,
+      "category_name": "NEWS"
+    },
+    {
+      "category_id": 1,
+      "category_name": "MOVIES"
+    },
+    {
+      "category_id": 2,
+      "category_name": "KIDS"
+    },
+    {
+      "category_id": 3,
+      "category_name": "SPORTS"
+    },
+    {
+      "category_id": 4,
+      "category_name": "ENTERTAINMENT"
+    },
+    {
+      "category_id": 5,
+      "category_name": "SINGAPORE"
+    },
+    {
+      "category_id": 6,
+      "category_name": "MALAYSIAN"
+    },
+    {
+      "category_id": 7,
+      "category_name": "INDONESIAN  "
+    },
+    {
+      "category_id": 8,
+      "category_name": "JAPANESE"
+    },
+    {
+      "category_id": 9,
+      "category_name": "KOREAN"
+    },
+    {
+      "category_id": 10,
+      "category_name": "CHINESE"
+    },
+    {
+      "category_id": 11,
+      "category_name": "TAIWAN"
+    },
+    {
+      "category_id": 12,
+      "category_name": "HONGKONG"
+    },
+    {
+      "category_id": 13,
+      "category_name": "THAILAND"
+    },
+    {
+      "category_id": 14,
+      "category_name": "VIETNAM"
+    },
+    {
+      "category_id": 15,
+      "category_name": "INDIA"
+    },
+    {
+      "category_id": 16,
+      "category_name": "MYANMAR"
+    },
+    {
+      "category_id": 17,
+      "category_name": "HMONG"
+    },
+    {
+      "category_id": 18,
+      "category_name": "LAOS"
+    }
+  ]
+}

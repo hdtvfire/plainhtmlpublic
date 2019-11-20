@@ -1,0 +1,74 @@
+[
+  {
+    "id": "hollywood",
+    "name": "hollywood"
+  },
+  {
+    "id": "war",
+    "name": "war"
+  },
+  {
+    "id": "hindidubbed",
+    "name": "hindidubbed"
+  },
+  {
+    "id": "all",
+    "name": "all"
+  },
+  {
+    "id": "punjabimovies",
+    "name": "punjabimovies"
+  },
+  {
+    "id": "bengalimovies",
+    "name": "bengalimovies"
+  },
+  {
+    "id": "malayalam",
+    "name": "malayalam"
+  },
+  {
+    "id": "bollywood",
+    "name": "bollywood"
+  },
+  {
+    "id": "marathimovies",
+    "name": "marathimovies"
+  },
+  {
+    "id": "kids",
+    "name": "kids"
+  },
+  {
+    "id": "kannada",
+    "name": "kannada"
+  },
+  {
+    "id": "history",
+    "name": "history"
+  },
+  {
+    "id": "gujaratimovies",
+    "name": "gujaratimovies"
+  },
+  {
+    "id": "unknown",
+    "name": "unknown"
+  },
+  {
+    "id": "marvelmovies",
+    "name": "marvelmovies"
+  },
+  {
+    "id": "anime",
+    "name": "anime"
+  },
+  {
+    "id": "tulu",
+    "name": "tulu"
+  },
+  {
+    "id": "dcmovies",
+    "name": "dcmovies"
+  }
+]
