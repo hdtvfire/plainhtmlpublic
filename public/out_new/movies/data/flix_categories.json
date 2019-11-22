@@ -1,11 +1,11 @@
 [
   {
-    "id": "hollywood",
-    "name": "hollywood"
+    "id": "documentary",
+    "name": "documentary"
   },
   {
-    "id": "war",
-    "name": "war"
+    "id": "hollywood",
+    "name": "hollywood"
   },
   {
     "id": "hindidubbed",
@@ -16,6 +16,26 @@
     "name": "all"
   },
   {
+    "id": "bollywood",
+    "name": "bollywood"
+  },
+  {
+    "id": "malayalam",
+    "name": "malayalam"
+  },
+  {
+    "id": "kannada",
+    "name": "kannada"
+  },
+  {
+    "id": "kids",
+    "name": "kids"
+  },
+  {
+    "id": "war",
+    "name": "war"
+  },
+  {
     "id": "punjabimovies",
     "name": "punjabimovies"
   },
@@ -24,24 +44,8 @@
     "name": "bengalimovies"
   },
   {
-    "id": "malayalam",
-    "name": "malayalam"
-  },
-  {
-    "id": "bollywood",
-    "name": "bollywood"
-  },
-  {
     "id": "marathimovies",
     "name": "marathimovies"
-  },
-  {
-    "id": "kids",
-    "name": "kids"
-  },
-  {
-    "id": "kannada",
-    "name": "kannada"
   },
   {
     "id": "history",

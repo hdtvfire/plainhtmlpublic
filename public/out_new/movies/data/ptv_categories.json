@@ -1,27 +1,7 @@
 [
   {
-    "id": "tollywoodmovies",
-    "name": "tollywoodmovies"
-  },
-  {
-    "id": "all",
-    "name": "all"
-  },
-  {
-    "id": "mollywoodmovies",
-    "name": "mollywoodmovies"
-  },
-  {
-    "id": "hollywoodmovies",
-    "name": "hollywoodmovies"
-  },
-  {
     "id": "hindidubbedmovies",
     "name": "hindidubbedmovies"
-  },
-  {
-    "id": "telugudubbedmovies",
-    "name": "telugudubbedmovies"
   },
   {
     "id": "tamildubbedmovies",
@@ -32,24 +12,44 @@
     "name": "kollywoodmovies"
   },
   {
-    "id": "bollywoodmovies",
-    "name": "bollywoodmovies"
+    "id": "telugudubbedmovies",
+    "name": "telugudubbedmovies"
   },
   {
-    "id": "history",
-    "name": "history"
+    "id": "hollywoodmovies",
+    "name": "hollywoodmovies"
+  },
+  {
+    "id": "all",
+    "name": "all"
   },
   {
     "id": "war",
     "name": "war"
   },
   {
+    "id": "punjabimovies",
+    "name": "punjabimovies"
+  },
+  {
+    "id": "bollywoodmovies",
+    "name": "bollywoodmovies"
+  },
+  {
     "id": "sandalwoodmovies",
     "name": "sandalwoodmovies"
   },
   {
-    "id": "punjabimovies",
-    "name": "punjabimovies"
+    "id": "tollywoodmovies",
+    "name": "tollywoodmovies"
+  },
+  {
+    "id": "mollywoodmovies",
+    "name": "mollywoodmovies"
+  },
+  {
+    "id": "history",
+    "name": "history"
   },
   {
     "id": "wwe",
@@ -94,33 +94,5 @@
   {
     "id": "jamesbond007",
     "name": "jamesbond007"
-  },
-  {
-    "id": "caribbeanpentalogy",
-    "name": "caribbeanpentalogy"
-  },
-  {
-    "id": "disneydelights",
-    "name": "disneydelights"
-  },
-  {
-    "id": "marvelcomics",
-    "name": "marvelcomics"
-  },
-  {
-    "id": "dcextendeduniverse",
-    "name": "dcextendeduniverse"
-  },
-  {
-    "id": "marvelcineuniverse",
-    "name": "marvelcineuniverse"
-  },
-  {
-    "id": "bengalimovies",
-    "name": "bengalimovies"
-  },
-  {
-    "id": "originalmovies",
-    "name": "originalmovies"
   }
 ]

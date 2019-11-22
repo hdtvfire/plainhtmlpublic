@@ -1,5 +1,31 @@
 [
   {
+    "live_tv_id": "466",
+    "tv_name": "Nat Geo Wild HD",
+    "description": "",
+    "slug": "nat-geo-wild-hd",
+    "stream_from": "hls",
+    "stream_label": "HD",
+    "stream_url": "http://www.bozhd.eu:8000/lokman3/3lokman/21102",
+    "thumbnail_url": "hdtv_logo.png",
+    "poster_url": "nat-geo-wild-hd.png",
+    "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
+    "original_poster_url": "http://redflixtv.me/uploads/tv_image/nat-geo-wild-hd.png"
+  },
+  {
+    "live_tv_id": "465",
+    "tv_name": "Sony Movies",
+    "description": "",
+    "slug": "sony-movies",
+    "stream_from": "hls",
+    "stream_label": "Off",
+    "stream_url": "http://www.bozhd.eu:8000/lokman3/3lokman/22379",
+    "thumbnail_url": "sony-movies.jpeg",
+    "poster_url": "sony-movies.jpeg",
+    "original_thumbnail_url": "http://redflixtv.me/uploads/tv_image/sm/sony-movies.jpeg",
+    "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-movies.jpeg"
+  },
+  {
     "live_tv_id": "464",
     "tv_name": "Aajtak HD",
     "description": "",
@@ -7,7 +33,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "aajtak-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/aajtak-hd.jpg"
@@ -46,7 +72,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Travel_XP.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "travel-xp-hindi.jpeg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/travel-xp-hindi.jpeg"
@@ -72,7 +98,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/sports/IndvsBan.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "ind-vs-ban-live.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/ind-vs-ban-live.jpg"
@@ -98,7 +124,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Romedy_Now_HD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "romedy-now-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/romedy-now-hd.jpg"
@@ -111,7 +137,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "https://stream.massdigitech.com/hls/Zee_News.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "zee-news.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/zee-news.jpg"
@@ -124,7 +150,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "https://stream.massdigitech.com/hls/ID.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "jeet-prime.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/jeet-prime.jpg"
@@ -137,7 +163,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "https://stream.massdigitech.com/hls/Travel_XP_HD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "travelxp-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/travelxp-hd.jpg"
@@ -163,7 +189,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Rishtey_Cineplex.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "rishtey-cineplex.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/rishtey-cineplex.jpg"
@@ -202,7 +228,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Republic_TV.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "republic.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/republic.jpg"
@@ -215,7 +241,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Mastiii.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "mastiii.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/mastiii.jpg"
@@ -241,7 +267,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/CN_HD_English.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "cartoon-network-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/cartoon-network-hd.jpg"
@@ -254,7 +280,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/KTV_HD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "ktv-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/ktv-hd.jpg"
@@ -267,7 +293,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": " http://cdn.joovox.xyz/hls293/WB.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "wb.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/wb.jpg"
@@ -280,7 +306,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": " http://cdn.joovox.xyz/hls293/Sony_Pix_HD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-pix-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-pix-hd.jpg"
@@ -293,7 +319,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": " http://cdn.joovox.xyz/hls293/TLC_HD_World.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "tlc-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/tlc-hd.jpg"
@@ -306,7 +332,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/MTV_HD_Plus.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "mtv-hd-plus.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/mtv-hd-plus.jpg"
@@ -319,7 +345,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/MTV.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "mtv.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/mtv.jpg"
@@ -332,7 +358,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Sony_Ten1_HD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-ten-1-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-ten-1-hd.jpg"
@@ -358,7 +384,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://playing-jootv.somee.com/iptv/play-2.php?c=sonymax2&tv.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-max-2.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-max-2.jpg"
@@ -371,7 +397,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/ABP_News_India.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "abp-news.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/abp-news.jpg"
@@ -384,7 +410,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/NDTV_India.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "ndtv-india.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/ndtv-india.jpg"
@@ -410,7 +436,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Discovery_Kids_1.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "discovery-kids-english.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/discovery-kids-english.jpg"
@@ -423,7 +449,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w640047023_b1000000.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "aajtak.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/aajtak.png"
@@ -436,7 +462,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Animal_Planet_English.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "animal-planet-english.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/animal-planet-english.jpg"
@@ -449,7 +475,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Animal_Planet_Hindi.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "animal-planet-hindi.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/animal-planet-hindi.jpg"
@@ -462,7 +488,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Discovery_Science.m3u8 /Dangal.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "dangal.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/dangal.jpg"
@@ -475,7 +501,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://playing-jootv.somee.com/iptv/play-2.php?c=moviesnowhd&tv.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "movies-now-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/movies-now-hd.jpg"
@@ -488,7 +514,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": " http://cdn.joovox.xyz/hls293/jio_sports.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "jio-sports.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/jio-sports.jpg"
@@ -501,7 +527,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Discovery_HD_World.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "discovery-hd-world.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/discovery-hd-world.png"
@@ -514,7 +540,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/hotstar/live/hsplus.php?c=moviesok&e=.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "movies-ok.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/movies-ok.png"
@@ -540,7 +566,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Sony_BBC_Earth_HD.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-bbc-earth-hindi.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-bbc-earth-hindi.jpg"
@@ -553,7 +579,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://playing-jootv.somee.com/iptv/play-2.php?c=sonyten2&tv.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-ten-2-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-ten-2-hd.png"
@@ -618,7 +644,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Sony_Max_HD.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-max-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-max-hd.jpg"
@@ -630,8 +656,8 @@
     "slug": "sony-six-hd",
     "stream_from": "hls",
     "stream_label": "HD",
-    "stream_url": "http://playing-jootv.somee.com/iptv/play-2.php?c=sonysixhd&tv.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "stream_url": "http://163.172.29.246:8081/globe/sonysix/chunks.m3u8",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-six-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-six-hd.jpg"
@@ -644,7 +670,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/History_HD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "history-tv-18-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/history-tv-18-hd.jpg"
@@ -657,7 +683,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/EROSNOW_Hindi_Premium.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "jio-bollywood-premium-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/jio-bollywood-premium-hd.jpg"
@@ -670,7 +696,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Nickelodeon.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "nickelodeon.jpeg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/nickelodeon.jpeg"
@@ -683,7 +709,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Pogo_Hindi.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "pogo.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/pogo.png"
@@ -696,7 +722,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://stream.massdigitech.com/hls/E_24.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "e24.jpeg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/e24.jpeg"
@@ -865,7 +891,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-world-hd-p5fha5uv9jdp.jpeg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-world-hd-p5fha5uv9jdp.jpeg"
@@ -891,7 +917,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "https://sony247channels.akamaized.net/hls/live/2002594/Epicchannel/master_2128.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "epic.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/epic.png"
@@ -917,7 +943,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://109.169.56.170/hls/starsportsselect2.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-sports-select-hd-2.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-sports-select-hd-2.jpg"
@@ -930,7 +956,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://109.169.56.170/hls/starsportsselect1.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-sports-select-hd-1.JPG",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-sports-select-hd-1.JPG"
@@ -943,7 +969,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz:8080/Star_Sports_1_Tamil/tracks-v1a1/mono.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-sports-1-tamil.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-sports-1-tamil.png"
@@ -956,7 +982,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz:8080/Star_Sports_HD1_Hindi/tracks-v1a1/mono.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-sports-hindi-hd-1.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-sports-hindi-hd-1.jpg"
@@ -969,7 +995,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/StarSportsHD2.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-sports-hd-2.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-sports-hd-2.png"
@@ -982,7 +1008,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz:8080/Star_Sports_HD1/tracks-v1a1/mono.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-sports-hd-1.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-sports-hd-1.png"
@@ -995,7 +1021,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz:8080/Vijay_Super/tracks-v1a1/mono.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "vijay-super.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/vijay-super.png"
@@ -1008,7 +1034,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/MaaMusic.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "maa-music.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/maa-music.png"
@@ -1021,7 +1047,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/StarMaaHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-maa-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-maa-hd.png"
@@ -1034,7 +1060,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://pockettv.xyz/api/zee.m3u8?c=zeetvhd",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "zee-tv-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/zee-tv-hd.png"
@@ -1047,7 +1073,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": " http://cdn.joovox.xyz/hls293/Sony_SAB_HD.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-sab-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-sab-hd.png"
@@ -1060,7 +1086,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://cdn.joovox.xyz/hls293/Sony_HD.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "sony-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/sony-hd.png"
@@ -1073,7 +1099,7 @@
     "stream_from": "hls",
     "stream_label": "Redflix",
     "stream_url": " http://cdn.joovox.xyz/hls293/Colors_HD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "colors-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/colors-hd.png"
@@ -1086,7 +1112,7 @@
     "stream_from": "hls",
     "stream_label": "Redflix",
     "stream_url": "http://red.aslivetv.club/StarBharatHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-bharat-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-bharat-hd.png"
@@ -1099,7 +1125,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://stream.massdigitech.com/jtb.php?cid=Star_Vijay.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-vijay-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-vijay-hd.png"
@@ -1112,7 +1138,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/StarWorldPremeirHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-world-premiere-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-world-premiere-hd.jpg"
@@ -1125,7 +1151,7 @@
     "stream_from": "hls",
     "stream_label": "NW",
     "stream_url": "http://red.aslivetv.club/StarWorldHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-world-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-world-hd.jpg"
@@ -1138,7 +1164,7 @@
     "stream_from": "hls",
     "stream_label": "Redflix",
     "stream_url": "http://red.aslivetv.club/StarMoviesSelectHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-movies-select-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-movies-select-hd.png"
@@ -1151,7 +1177,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/StarMoviesHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-movies-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-movies-hd.png"
@@ -1164,7 +1190,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/StarGoldSelectHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-gold-select-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-gold-select-hd.png"
@@ -1177,7 +1203,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/StarGoldHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-gold-hd.jpg",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-gold-hd.jpg"
@@ -1190,7 +1216,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://red.aslivetv.club/StarPlusHD.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-plus-hd.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/star-plus-hd.png"
@@ -1203,7 +1229,7 @@
     "stream_from": "hls",
     "stream_label": "HD",
     "stream_url": "http://195.181.169.151:8080/MaaMoviesUS-telu/index.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "maa-movies-usa.png",
     "original_thumbnail_url": "http://redflixtv.me/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "http://redflixtv.me/uploads/tv_image/maa-movies-usa.png"
