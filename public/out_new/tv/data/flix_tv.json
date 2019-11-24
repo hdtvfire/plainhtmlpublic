@@ -78,8 +78,8 @@
     "stream_label": "HD",
     "user_agent": "Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
     "stream_url": "http://live14p.hotstar.com:80/hls/live/2003892/indvsbang2019/tel/fulldvr1440003484sykgz3iloi22november2019/master_5.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
-    "poster_url": "tv_poster.jpg",
+    "thumbnail_url": "hdtv_logo.png",
+    "poster_url": "hdtv_logo.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_poster.jpg"
   },
@@ -92,8 +92,8 @@
     "stream_label": "HD",
     "user_agent": "Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
     "stream_url": "http://live14p.hotstar.com:80/hls/live/2003891/indvsbang2019/tam/fulldvr1440003484sykgz3iloi22november2019/master_5.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
-    "poster_url": "tv_poster.jpg",
+    "thumbnail_url": "hdtv_logo.png",
+    "poster_url": "hdtv_logo.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_poster.jpg"
   },
@@ -106,8 +106,8 @@
     "stream_label": "HD",
     "user_agent": "Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
     "stream_url": "http://live11p.hotstar.com:80/hls/live/2003692/indvsbang2019/eng/fulldvr1440003484sykgz3iloi22november2019/master_5.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
-    "poster_url": "tv_poster.jpg",
+    "thumbnail_url": "hdtv_logo.png",
+    "poster_url": "hdtv_logo.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_poster.jpg"
   },
@@ -120,8 +120,8 @@
     "stream_label": "HD",
     "user_agent": "Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
     "stream_url": "http://live12p.hotstar.com:80/hls/live/2003702/indvsbang2019/hin/fulldvr1440003484sykgz3iloi22november2019/master_5.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
-    "poster_url": "tv_poster.jpg",
+    "thumbnail_url": "hdtv_logo.png",
+    "poster_url": "hdtv_logo.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_poster.jpg"
   },
@@ -134,8 +134,8 @@
     "stream_label": "HD",
     "user_agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
     "stream_url": "http://red.aslivetv.club/sports/IndvsBan.m3u8 ",
-    "thumbnail_url": "tv_thumbnail.jpg",
-    "poster_url": "tv_poster.jpg",
+    "thumbnail_url": "hdtv_logo.png",
+    "poster_url": "hdtv_logo.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_poster.jpg"
   },
@@ -162,8 +162,8 @@
     "stream_label": "HD",
     "user_agent": "Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5",
     "stream_url": "http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/1.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
-    "poster_url": "tv_poster.jpg",
+    "thumbnail_url": "hdtv_logo.png",
+    "poster_url": "hdtv_logo.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_poster.jpg"
   },
@@ -218,7 +218,7 @@
     "stream_label": "HD",
     "user_agent": "",
     "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-world-hd.jpg",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/tv_image/star-world-hd.jpg"
@@ -232,7 +232,7 @@
     "stream_label": "HD",
     "user_agent": "",
     "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "star-movies-hd.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/tv_image/star-movies-hd.png"
@@ -246,7 +246,7 @@
     "stream_label": "HD",
     "user_agent": "",
     "stream_url": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "nat-geo-people-hd.jpg",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/tv_image/nat-geo-people-hd.jpg"
@@ -274,7 +274,7 @@
     "stream_label": "HD",
     "user_agent": "",
     "stream_url": "https://streamidea.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "discovery-science.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/tv_image/discovery-science.png"
@@ -484,7 +484,7 @@
     "stream_label": "HD",
     "user_agent": "Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0",
     "stream_url": "http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8?jct=4oH5lZ3z-rGu5ptNKlW84Q&pxe=1672930453&st=2rABpyTLSDzkoYSlKcWJhg",
-    "thumbnail_url": "tv_thumbnail.jpg",
+    "thumbnail_url": "hdtv_logo.png",
     "poster_url": "colors-hd.png",
     "original_thumbnail_url": "https://www.stardomapp.com/test1/uploads/default_image/tv_thumbnail.jpg",
     "original_poster_url": "https://www.stardomapp.com/test1/uploads/tv_image/colors-hd.png"
