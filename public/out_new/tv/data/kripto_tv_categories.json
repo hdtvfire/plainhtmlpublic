@@ -5,11 +5,6 @@
     "description": "Ulusal Kanallar"
   },
   {
-    "live_tv_category_id": "7",
-    "title": "Sinema",
-    "description": "Sinema Kanallar\u0131"
-  },
-  {
     "live_tv_category_id": "6",
     "title": "M\u00fczik",
     "description": "M\u00fczik Kanallar\u0131"
@@ -33,10 +28,5 @@
     "live_tv_category_id": "2",
     "title": "Belgesel",
     "description": "Belgesel Kanllar\u0131"
-  },
-  {
-    "live_tv_category_id": "1",
-    "title": "Spor",
-    "description": "Spor kanallar\u0131"
   }
 ]
