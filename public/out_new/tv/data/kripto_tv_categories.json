@@ -1,32 +1,7 @@
 [
   {
-    "live_tv_category_id": "8",
-    "title": "Ulusal",
-    "description": "Ulusal Kanallar"
-  },
-  {
-    "live_tv_category_id": "6",
-    "title": "M\u00fczik",
-    "description": "M\u00fczik Kanallar\u0131"
-  },
-  {
-    "live_tv_category_id": "5",
-    "title": "Haber",
-    "description": "Haber Kanallar\u0131"
-  },
-  {
-    "live_tv_category_id": "4",
-    "title": "Dini",
-    "description": "Dini Kanallar"
-  },
-  {
-    "live_tv_category_id": "3",
-    "title": "\u00c7ocuk",
-    "description": "\u00c7ocuk Kanallar\u0131"
-  },
-  {
-    "live_tv_category_id": "2",
-    "title": "Belgesel",
-    "description": "Belgesel Kanllar\u0131"
+    "live_tv_category_id": "1",
+    "title": "Spor",
+    "description": "Spor kanallar\u0131"
   }
 ]
