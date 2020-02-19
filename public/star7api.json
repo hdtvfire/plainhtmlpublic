@@ -3,12 +3,12 @@
     {
       "id": "1",
       "desc": "Bein Media Group",
-      "channels_count": 50
+      "channels_count": 53
     },
     {
       "id": "2",
       "desc": "Arabic channels",
-      "channels_count": 406
+      "channels_count": 530
     },
     {
       "id": "3",
@@ -18,12 +18,12 @@
     {
       "id": "4",
       "desc": "OSN Premium Package",
-      "channels_count": 70
+      "channels_count": 66
     },
     {
       "id": "5",
       "desc": "United Kingdoom",
-      "channels_count": 225
+      "channels_count": 234
     },
     {
       "id": "6",
@@ -33,57 +33,57 @@
     {
       "id": "7",
       "desc": "Italia Channels",
-      "channels_count": 26
+      "channels_count": 27
     },
     {
       "id": "8",
       "desc": "Germany Channels",
-      "channels_count": 80
+      "channels_count": 179
     },
     {
       "id": "9",
       "desc": "Belgium & netherlands",
-      "channels_count": 130
+      "channels_count": 114
     },
     {
       "id": "10",
       "desc": "Brazilian Channels",
-      "channels_count": 213
+      "channels_count": 251
     },
     {
       "id": "11",
       "desc": "Portugal Channels",
-      "channels_count": 62
+      "channels_count": 64
     },
     {
       "id": "12",
       "desc": "Romania Channels",
-      "channels_count": 23
+      "channels_count": 24
     },
     {
       "id": "13",
       "desc": "Polognia Channels",
-      "channels_count": 58
+      "channels_count": 60
     },
     {
       "id": "14",
       "desc": "Russia Channels",
-      "channels_count": 117
+      "channels_count": 122
     },
     {
       "id": "15",
       "desc": "Indian Channels",
-      "channels_count": 408
+      "channels_count": 387
     },
     {
       "id": "16",
       "desc": "Turkish Channels",
-      "channels_count": 180
+      "channels_count": 246
     },
     {
       "id": "19",
       "desc": "Maghreb Arabic",
-      "channels_count": 50
+      "channels_count": 58
     },
     {
       "id": "20",
@@ -93,27 +93,27 @@
     {
       "id": "21",
       "desc": "Balkans Channels",
-      "channels_count": 248
+      "channels_count": 249
     },
     {
       "id": "22",
       "desc": "Africans Channels",
-      "channels_count": 290
+      "channels_count": 306
     },
     {
       "id": "23",
       "desc": "Kurdistans Channels",
-      "channels_count": 106
+      "channels_count": 178
     },
     {
       "id": "24",
       "desc": "Persian Channels",
-      "channels_count": 108
+      "channels_count": 147
     },
     {
       "id": "26",
       "desc": "Bulgarian & Greek",
-      "channels_count": 99
+      "channels_count": 105
     },
     {
       "id": "27",
@@ -128,17 +128,7 @@
     {
       "id": "29",
       "desc": "Azerbaijanese & Armenian",
-      "channels_count": 20
-    },
-    {
-      "id": "30",
-      "desc": "Scandinavia Channels",
-      "channels_count": 427
-    },
-    {
-      "id": "31",
-      "desc": "USA & Canada",
-      "channels_count": 495
+      "channels_count": 23
     }
   ]
 }
