@@ -717,7 +717,7 @@
     },
     {
       "id": "46346",
-      "name": "KSA SPORTS 4 FHD\t",
+      "name": "KSA SPORTS 4 FHD",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -1356,8 +1356,7 @@
     {
       "id": "43629",
       "name": "Karamah",
-      "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo2/arabic/karamahtv.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "1855",
@@ -1735,7 +1734,6 @@
     {
       "id": "2665",
       "name": "ALQABILAH TV",
-      "category": "Yemen TV Channels",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -2112,8 +2110,7 @@
     {
       "id": "13593",
       "name": "AssyriaSAT",
-      "category": "Syria TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo2/arabic/assyriasat.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "9272",
@@ -3083,6 +3080,32 @@
   ],
   "Egypt Channels": [
     {
+      "id": "11362",
+      "name": "Apple Aflam",
+      "category": "Egypt TV Channels",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49916",
+      "name": "Apple Cinema",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49914",
+      "name": "Apple Comedy",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49915",
+      "name": "Apple Mosalsalat",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49917",
+      "name": "Apple Hekayat",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
       "id": "2180",
       "name": "Halaba TV",
       "category": "Egypt TV Channels",
@@ -3678,6 +3701,12 @@
   ],
   "UAE TV Channels": [
     {
+      "id": "11333",
+      "name": "MBC+ Variety HD",
+      "category": "UAE TV Channels",
+      "logo": "http://files.rednetcontent.com/chlogo/mbc-variety.png"
+    },
+    {
       "id": "1878",
       "name": "CNBC Arabiya",
       "category": "UAE TV Channels",
@@ -3861,8 +3890,7 @@
     {
       "id": "11332",
       "name": "MBC Drama HD",
-      "category": "UAE TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo/mbcdrama.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "21870",
@@ -3873,38 +3901,32 @@
     {
       "id": "11330",
       "name": "MBC Action HD",
-      "category": "UAE TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo/mbc_action.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "11331",
       "name": "MBC Max HD",
-      "category": "UAE TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo/mbc.max.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "11329",
       "name": "MBC 4 HD",
-      "category": "UAE TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo/mbc4.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "11328",
       "name": "MBC 3 HD",
-      "category": "UAE TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo/mbc3.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "11327",
       "name": "MBC 2 HD",
-      "category": "UAE TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo/mbc2.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "11326",
       "name": "MBC 1 HD",
-      "category": "UAE TV Channels",
-      "logo": "http://files.rednetcontent.com/chlogo/mbc1.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "1856",
@@ -5333,8 +5355,7 @@
     {
       "id": "13777",
       "name": "Disney Cinema",
-      "category": "Kids",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/disneycinema1.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "13778",
@@ -5385,8 +5406,7 @@
     {
       "id": "13810",
       "name": "Tiji",
-      "category": "Kids",
-      "logo": "http://files.rednetcontent.com/chlogo2/arabic/Tijilogo.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "13809",
@@ -5408,8 +5428,7 @@
     {
       "id": "13801",
       "name": "RFM TV",
-      "category": "Music",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/RFMTV.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "32062",
@@ -5442,8 +5461,7 @@
     {
       "id": "13805",
       "name": "Mezzo Live",
-      "category": "Music",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/mezzolive.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "22669",
@@ -5485,6 +5503,21 @@
       "name": "Horror-Thriller 1",
       "category": "Cinema",
       "logo": "http://files.rednetcontent.com/livevod/new-logo/horror-thriller.png"
+    },
+    {
+      "id": "49957",
+      "name": "TELEFOOT STADIUM6",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49959",
+      "name": "TELEFOOT STADIUM8",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49958",
+      "name": "TELEFOOT STADIUM7",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "48746",
@@ -5542,6 +5575,31 @@
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
+      "id": "49956",
+      "name": "TELEFOOT STADIUM5",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49955",
+      "name": "TELEFOOT STADIUM4",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49954",
+      "name": "TELEFOOT STADIUM3",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49953",
+      "name": "TELEFOOT STADIUM2",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49952",
+      "name": "TELEFOOT STADIUM1",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
       "id": "48729",
       "name": "Adventure 1",
       "category": "Cinema",
@@ -5593,8 +5651,7 @@
     {
       "id": "13735",
       "name": "Golf Channel",
-      "category": "Sport",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/golfchannel.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "13701",
@@ -5732,8 +5789,7 @@
     {
       "id": "13793",
       "name": "Tele Club Zoom",
-      "category": "Sport",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/teleclub1.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "13790",
@@ -5744,8 +5800,7 @@
     {
       "id": "13715",
       "name": "Numero 23 HD",
-      "category": "Sport",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/numero23.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "13764",
@@ -5920,8 +5975,7 @@
     {
       "id": "32503",
       "name": "RMC Sport News",
-      "category": "Sport",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/rmc_sport_news.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "13758",
@@ -6006,8 +6060,7 @@
     {
       "id": "13726",
       "name": "Trek HD",
-      "category": "Documentary",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/trektv.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "32209",
@@ -6177,8 +6230,7 @@
     {
       "id": "13763",
       "name": "Cine+ Club",
-      "category": "Cinema",
-      "logo": "http://files.rednetcontent.com/chlogo2/french/cineclub.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "22654",
@@ -6371,8 +6423,7 @@
     {
       "id": "11342",
       "name": "Travel Channel",
-      "category": "Documentary",
-      "logo": "http://files.rednetcontent.com/chlogo/Travel_Channel_Logo.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "23029",
@@ -7471,7 +7522,7 @@
     },
     {
       "id": "18141",
-      "name": "Sky Sports Mix SD\t",
+      "name": "Sky Sports Mix SD",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -7488,7 +7539,7 @@
     },
     {
       "id": "18140",
-      "name": "Sky Sports Golf SD\t",
+      "name": "Sky Sports Golf SD",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -11382,7 +11433,7 @@
     },
     {
       "id": "46539",
-      "name": "rbb Berlin\tFHD",
+      "name": "RBB Berlin FHD",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -11889,9 +11940,9 @@
     },
     {
       "id": "4383",
-      "name": "Vitaya",
+      "name": "VTM 3",
       "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo/vitaya-klein_0.png"
+      "logo": "http://files.rednetcontent.com/chlogo2/Belgium/vtm3.png"
     },
     {
       "id": "1719",
@@ -14445,6 +14496,31 @@
     {
       "id": "43636",
       "name": "Eleven Sports 4 HD",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49907",
+      "name": "Kino Polska Muzyka HD",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49911",
+      "name": "Polo TV HD",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49909",
+      "name": "Eska TV HD",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49908",
+      "name": "Nuta TV HD",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49910",
+      "name": "Stopklatka HD",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -19130,7 +19206,7 @@
     },
     {
       "id": "39475",
-      "name": "beIN Sports 1 HD\t",
+      "name": "beIN Sports 1 HD",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -19257,6 +19333,21 @@
       "logo": "http://files.rednetcontent.com/livevod/new-logo/macera.png"
     },
     {
+      "id": "1598",
+      "name": "Smart Sport HD",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49949",
+      "name": "S Sport 1 HD",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "49912",
+      "name": "TV264 HD Sakarya",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
       "id": "2110",
       "name": "DMAX",
       "category": "Documentary",
@@ -19374,7 +19465,7 @@
     },
     {
       "id": "1974",
-      "name": "HaberTurk",
+      "name": "HABERTURK",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/haber_turk.png"
     },
@@ -19413,7 +19504,7 @@
     },
     {
       "id": "2113",
-      "name": "CNN Turk",
+      "name": "CNN TURK",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/Tr/CNNTurk.png"
     },
@@ -19425,7 +19516,7 @@
     },
     {
       "id": "9101",
-      "name": "CNN Turk HD",
+      "name": "CNN TURK HD",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/Tr/CNNTurkHD.png"
     },
@@ -19455,7 +19546,7 @@
     },
     {
       "id": "2118",
-      "name": "TRT Haber",
+      "name": "TRT HABER",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/trt_haber.png"
     },
@@ -19993,7 +20084,7 @@
     },
     {
       "id": "1974",
-      "name": "HaberTurk",
+      "name": "HABERTURK",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/haber_turk.png"
     },
@@ -20038,7 +20129,7 @@
     },
     {
       "id": "2113",
-      "name": "CNN Turk",
+      "name": "CNN TURK",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/Tr/CNNTurk.png"
     },
@@ -20050,7 +20141,7 @@
     },
     {
       "id": "9101",
-      "name": "CNN Turk HD",
+      "name": "CNN TURK HD",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/Tr/CNNTurkHD.png"
     },
@@ -20079,7 +20170,7 @@
     },
     {
       "id": "2101",
-      "name": "Beyaz TV",
+      "name": "BEYAZ TV",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/Beyaz_TV_Yeni_Logo.png"
     },
@@ -20138,7 +20229,7 @@
     },
     {
       "id": "9120",
-      "name": "Fox TV HD",
+      "name": "FOX TV HD",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/fox_tv.png"
     },
@@ -20156,31 +20247,31 @@
     },
     {
       "id": "2108",
-      "name": "Star TV",
+      "name": "STAR TV",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/star_tv.png"
     },
     {
       "id": "9095",
-      "name": "Star TV HD",
+      "name": "STAR TV HD",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/star_tv.png"
     },
     {
       "id": "9099",
-      "name": "Show TV HD",
+      "name": "SHOW TV HD",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/show_tv.png"
     },
     {
       "id": "2122",
-      "name": "Show TV",
+      "name": "SHOW TV",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/show_tv.png"
     },
     {
       "id": "1936",
-      "name": "A2 TV",
+      "name": "A2",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/Tr/a2.png"
     },
@@ -20198,13 +20289,13 @@
     },
     {
       "id": "2118",
-      "name": "TRT Haber",
+      "name": "TRT HABER",
       "category": "News",
       "logo": "http://files.rednetcontent.com/chlogo/trt_haber.png"
     },
     {
       "id": "22499",
-      "name": "TRT Turk",
+      "name": "TRT TURK",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/trt_turk.png"
     },
@@ -20258,7 +20349,7 @@
     },
     {
       "id": "22495",
-      "name": "TRT1 HD",
+      "name": "TRT 1 HD",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/trt_1.png"
     },
@@ -22839,7 +22930,7 @@
     },
     {
       "id": "49752",
-      "name": "AF WEST AFRICA TV \tGN",
+      "name": "AF WEST AFRICA TV GN",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -25266,6 +25357,28 @@
       "logo": "http://files.rednetcontent.com/chlogo/Kurdistan_tv-1.png"
     },
     {
+      "id": "49905",
+      "name": "Shakrok TV",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "46197",
+      "name": "Renma TV",
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+    },
+    {
+      "id": "48944",
+      "name": "Sada HD",
+      "category": "General",
+      "logo": "http://files.rednetcontent.com/chlogo2/english/sadatv.png"
+    },
+    {
+      "id": "48942",
+      "name": "Revend HD",
+      "category": "General",
+      "logo": "http://files.rednetcontent.com/chlogo2/english/revendhd.png"
+    },
+    {
       "id": "2181",
       "name": "Kurdsat News",
       "category": "News",
@@ -25337,7 +25450,7 @@
       "id": "48943",
       "name": "Super TV HD",
       "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo/default.png"
+      "logo": "http://files.rednetcontent.com/chlogo2/Kurdish/supertv.png"
     },
     {
       "id": "48946",
@@ -27175,6 +27288,7 @@
     {
       "id": "43759",
       "name": "BNT 4",
+      "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
@@ -27210,7 +27324,7 @@
     },
     {
       "id": "2385",
-      "name": "ERT 1",
+      "name": "EPT 1",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo2/greek/EPT1.png"
     },
@@ -27226,7 +27340,7 @@
     },
     {
       "id": "2394",
-      "name": "ERT 2",
+      "name": "EPT 2",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo2/greek/EPT2.png"
     },
@@ -27238,7 +27352,7 @@
     },
     {
       "id": "2393",
-      "name": "ERT 3",
+      "name": "EPT 3",
       "category": "General",
       "logo": "http://files.rednetcontent.com/chlogo2/greek/EPT3.png"
     },
@@ -27274,8 +27388,7 @@
     {
       "id": "2390",
       "name": "Skai TV",
-      "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo/eskai.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "2975",
@@ -27292,8 +27405,7 @@
     {
       "id": "2389",
       "name": "Star TV",
-      "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo/Star_Television_logo.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "14293",
@@ -27303,14 +27415,12 @@
     {
       "id": "2386",
       "name": "Mega TV",
-      "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo/mega_tv.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "2391",
       "name": "Makedonia TV",
-      "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo/Makedonia_TV.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "1799",
@@ -27338,8 +27448,7 @@
     {
       "id": "2395",
       "name": "4E TV",
-      "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo/4e_tv.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "11405",
@@ -27371,8 +27480,7 @@
     {
       "id": "13599",
       "name": "RIKSat",
-      "category": "General",
-      "logo": "http://files.rednetcontent.com/chlogo2/Albanian/RIKSAT.png"
+      "logo": "http://files.rednetcontent.com/chlogo/default.png"
     },
     {
       "id": "31810",
