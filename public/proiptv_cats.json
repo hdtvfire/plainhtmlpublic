@@ -1,0 +1,99 @@
+{
+  "cats": [
+    {
+      "id": "1",
+      "desc": "MAGHREB",
+      "channels_count": 44
+    },
+    {
+      "id": "2",
+      "desc": "ARABIC",
+      "channels_count": 187
+    },
+    {
+      "id": "3",
+      "desc": "ARABIC NEWS",
+      "channels_count": 19
+    },
+    {
+      "id": "4",
+      "desc": "OSN PREMIUM",
+      "channels_count": 41
+    },
+    {
+      "id": "5",
+      "desc": "KIDS CHANNEL",
+      "channels_count": 11
+    },
+    {
+      "id": "6",
+      "desc": "BEINSPORTS FHD",
+      "channels_count": 19
+    },
+    {
+      "id": "7",
+      "desc": "BEINSPORTS",
+      "channels_count": 41
+    },
+    {
+      "id": "8",
+      "desc": "SPORTS CHANNELS",
+      "channels_count": 23
+    },
+    {
+      "id": "9",
+      "desc": "FRENCH CHANNELS",
+      "channels_count": 96
+    },
+    {
+      "id": "10",
+      "desc": "UK CHANNELS",
+      "channels_count": 74
+    },
+    {
+      "id": "11",
+      "desc": "GERMANY",
+      "channels_count": 57
+    },
+    {
+      "id": "12",
+      "desc": "ITALIA",
+      "channels_count": 60
+    },
+    {
+      "id": "13",
+      "desc": "BELGIQUE",
+      "channels_count": 15
+    },
+    {
+      "id": "14",
+      "desc": "NETHERLAND",
+      "channels_count": 52
+    },
+    {
+      "id": "15",
+      "desc": "PORTUGAL",
+      "channels_count": 65
+    },
+    {
+      "id": "16",
+      "desc": "ESPAGNOL",
+      "channels_count": 104
+    },
+    {
+      "id": "17",
+      "desc": "TURQUE",
+      "channels_count": 84
+    },
+    {
+      "id": "18",
+      "desc": "FRENCH CHANNELS SD",
+      "channels_count": 1
+    },
+    {
+      "id": "19",
+      "desc": "Others Countries",
+      "channels_count": 86
+    }
+  ]
+}
