@@ -3,7 +3,7 @@
     {
       "id": "1",
       "desc": "Bein Media Group",
-      "channels_count": 55
+      "channels_count": 54
     },
     {
       "id": "2",
@@ -18,12 +18,12 @@
     {
       "id": "20",
       "desc": "Egypt Channels",
-      "channels_count": 100
+      "channels_count": 105
     },
     {
       "id": "31",
       "desc": "UAE TV Channels",
-      "channels_count": 52
+      "channels_count": 53
     },
     {
       "id": "32",
@@ -43,12 +43,12 @@
     {
       "id": "3",
       "desc": "France Channels",
-      "channels_count": 204
+      "channels_count": 196
     },
     {
       "id": "5",
       "desc": "United Kingdoom",
-      "channels_count": 530
+      "channels_count": 459
     },
     {
       "id": "6",
@@ -68,12 +68,12 @@
     {
       "id": "9",
       "desc": "Belgium & netherlands",
-      "channels_count": 206
+      "channels_count": 221
     },
     {
       "id": "10",
       "desc": "Brazilian Channels",
-      "channels_count": 191
+      "channels_count": 187
     },
     {
       "id": "11",
@@ -88,7 +88,7 @@
     {
       "id": "13",
       "desc": "Polognia Channels",
-      "channels_count": 62
+      "channels_count": 67
     },
     {
       "id": "14",
@@ -103,7 +103,7 @@
     {
       "id": "16",
       "desc": "Turkish Channels",
-      "channels_count": 362
+      "channels_count": 365
     },
     {
       "id": "21",
@@ -113,12 +113,12 @@
     {
       "id": "22",
       "desc": "Africans Channels",
-      "channels_count": 532
+      "channels_count": 637
     },
     {
       "id": "23",
       "desc": "Kurdistans Channels",
-      "channels_count": 197
+      "channels_count": 201
     },
     {
       "id": "24",
@@ -128,7 +128,7 @@
     {
       "id": "26",
       "desc": "Bulgarian & Greek",
-      "channels_count": 105
+      "channels_count": 203
     },
     {
       "id": "27",
