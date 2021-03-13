@@ -89,6 +89,10 @@
       "desc": "General"
     },
     {
+      "id": "Ethiopian",
+      "desc": "Ethiopian"
+    },
+    {
       "id": "Cinema",
       "desc": "Cinema"
     },
@@ -113,6 +117,10 @@
       "desc": "Kids"
     },
     {
+      "id": "H265/HEVC",
+      "desc": "H265/HEVC"
+    },
+    {
       "id": "Local Channels",
       "desc": "Local Channels"
     },
@@ -127,6 +135,54 @@
     {
       "id": "Sport-Zabava",
       "desc": "Sport-Zabava"
+    },
+    {
+      "id": "Albanian",
+      "desc": "Albanian"
+    },
+    {
+      "id": "Hindi",
+      "desc": "Hindi"
+    },
+    {
+      "id": "Punjabi",
+      "desc": "Punjabi"
+    },
+    {
+      "id": "Urdu",
+      "desc": "Urdu"
+    },
+    {
+      "id": "Tamil",
+      "desc": "Tamil"
+    },
+    {
+      "id": "Telugu",
+      "desc": "Telugu"
+    },
+    {
+      "id": "Bengali",
+      "desc": "Bengali"
+    },
+    {
+      "id": "Marathi",
+      "desc": "Marathi"
+    },
+    {
+      "id": "Kannada",
+      "desc": "Kannada"
+    },
+    {
+      "id": "Bangla",
+      "desc": "Bangla"
+    },
+    {
+      "id": "Malayalam",
+      "desc": "Malayalam"
+    },
+    {
+      "id": "Odia",
+      "desc": "Odia"
     }
   ]
 }
