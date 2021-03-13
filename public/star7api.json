@@ -45,16 +45,20 @@
       "desc": "Italian"
     },
     {
-      "id": "Portuguese",
-      "desc": "Portuguese"
-    },
-    {
       "id": "Brazilian",
       "desc": "Brazilian"
     },
     {
+      "id": "Portuguese",
+      "desc": "Portuguese"
+    },
+    {
       "id": "Balkans",
       "desc": "Balkans"
+    },
+    {
+      "id": "Albanian",
+      "desc": "Albanian"
     },
     {
       "id": "Bulgarian",
@@ -69,6 +73,10 @@
       "desc": "Romanian"
     },
     {
+      "id": "Polish",
+      "desc": "Polish"
+    },
+    {
       "id": "Russian",
       "desc": "Russian"
     },
@@ -79,6 +87,14 @@
     {
       "id": "Afghan",
       "desc": "Afghan"
+    },
+    {
+      "id": "Somali",
+      "desc": "Somali"
+    },
+    {
+      "id": "Indian - FULL",
+      "desc": "Indian - FULL"
     },
     {
       "id": "Indian",
@@ -93,8 +109,36 @@
       "desc": "Azerbaijanese"
     },
     {
+      "id": "Hebrew",
+      "desc": "Hebrew"
+    },
+    {
       "id": "Armenian",
       "desc": "Armenian"
+    },
+    {
+      "id": "Denmark",
+      "desc": "Denmark"
+    },
+    {
+      "id": "Czech",
+      "desc": "Czech"
+    },
+    {
+      "id": "Finland",
+      "desc": "Finland"
+    },
+    {
+      "id": "Norway",
+      "desc": "Norway"
+    },
+    {
+      "id": "Sweden",
+      "desc": "Sweden"
+    },
+    {
+      "id": "ULTRA HD",
+      "desc": "ULTRA HD"
     }
   ]
 }
